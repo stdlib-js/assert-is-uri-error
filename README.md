@@ -144,7 +144,7 @@ bool = isURIError( null );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/assert/is-error`][@stdlib/assert/is-error]</span><span class="delimiter">: </span><span class="description">test if a value is an Error object.</span>
+-   <span class="package-name">[`@stdlib/assert-is-error`][@stdlib/assert/is-error]</span><span class="delimiter">: </span><span class="description">test if a value is an Error object.</span>
 
 </section>
 
