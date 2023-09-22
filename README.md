@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isURIError from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uri-error@esm/index.mjs';
+import isURIError from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uri-error@v0.1.0-esm/index.mjs';
 ```
 
 #### isURIError( value )
@@ -94,7 +94,7 @@ var bool = isURIError( new URIError( 'beep' ) );
 <body>
 <script type="module">
 
-import isURIError from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uri-error@esm/index.mjs';
+import isURIError from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uri-error@v0.1.0-esm/index.mjs';
 
 var bool = isURIError( new URIError( 'URI error' ) );
 // returns true
