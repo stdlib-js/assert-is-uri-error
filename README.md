@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isURIError from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uri-error@deno/mod.js';
+import isURIError from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uri-error@v0.1.1-deno/mod.js';
 ```
 
 #### isURIError( value )
@@ -89,7 +89,7 @@ var bool = isURIError( new URIError( 'beep' ) );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isURIError from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uri-error@deno/mod.js';
+import isURIError from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-uri-error@v0.1.1-deno/mod.js';
 
 var bool = isURIError( new URIError( 'URI error' ) );
 // returns true
