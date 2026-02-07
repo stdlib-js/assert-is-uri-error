@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-uri-error",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Test if a value is a URIError object.",
   "license": "Apache-2.0",
   "author": {
@@ -38,13 +38,13 @@
   },
   "dependencies": {
     "@stdlib/assert-is-error": "^0.2.2",
-    "@stdlib/utils-get-prototype-of": "^0.2.2",
-    "@stdlib/utils-type-of": "^0.2.2"
+    "@stdlib/utils-get-prototype-of": "^0.2.3",
+    "@stdlib/utils-type-of": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.2.2",
+    "@stdlib/assert-is-boolean": "^0.2.3",
     "@stdlib/assert-is-browser": "^0.2.2",
-    "@stdlib/utils-inherit": "^0.2.2",
+    "@stdlib/utils-inherit": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
